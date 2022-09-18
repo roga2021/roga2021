@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything Blockchain
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on Blockchain projects
-- 📫 How to reach me @rohogaxa on Telegram
+- 📫 How to reach me @rohogaka on Telegram
 
 <!---
 roga2021/roga2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
